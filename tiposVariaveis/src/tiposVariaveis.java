@@ -1,6 +1,7 @@
 public class TiposVariaveis{
    
     public static void main(String[] args) throws Exception {
+<<<<<<< HEAD
         
         double salarioMinimo = 2500;
         short numeroCurto = 1;
@@ -14,6 +15,13 @@ public class TiposVariaveis{
        
 
        
+=======
+int cartazes =1;
+double salario =2740;
+
+
+        System.out.println("Hello, World!");
+>>>>>>> 7c755690fd100bd93bbe2a2dcede313db9a5e868
     }
 }
     
